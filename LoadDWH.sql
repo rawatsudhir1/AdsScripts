@@ -1,3 +1,5 @@
+--  If not already -> CREATE MASTER KEY;
+
 
 CREATE EXTERNAL DATA SOURCE WWIStorage
 WITH
